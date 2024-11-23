@@ -87,3 +87,5 @@ npm start
 cd frontend
 npm start
 
+Contributing
+Feel free to submit pull requests to improve functionality or fix bugs.
