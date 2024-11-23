@@ -61,3 +61,29 @@ The **Full-Stack Clinic Management System** is a comprehensive application desig
 ## Folder Structure
 
 ### Frontend
+
+### Backend
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Node.js
+- MongoDB
+- npm or yarn
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/full-stack-clinic-management-system.git
+cd full-stack-clinic-management-system
+cd frontend && npm install
+cd ../backend && npm install
+
+cd backend
+npm start
+
+cd frontend
+npm start
+
